@@ -1,5 +1,4 @@
 # SentiWordNet-PT-BR
---------------------
 
 Esse projeto tem como objetivo facilitar a mineração de sentimentos em textos, através do uso de um dicionário léxico em português. 
 
